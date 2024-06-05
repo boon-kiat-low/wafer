@@ -1,2 +1,2 @@
 # Kaggle Notebook Output:
-[Output](kaggle kernels output bk1997/yolov8xcls -p /path/to/dest)
+[Output](https://www.kaggle.com/code/bk1997/yolov8xcls/output)
